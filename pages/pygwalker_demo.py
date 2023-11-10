@@ -5,12 +5,12 @@ import streamlit as st
  
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title="Leveling Up Data!",
+    page_title="Leveling Up Data! with PyTableau",
     layout="wide"
 )
  
 # Add Title
-st.title("Pygwalker by Leveling Up Data!")
+st.title("Leveling Up Data! with PyTableau")
  
 # Import your data
 df = pd.read_csv("https://kanaries-app.s3.ap-northeast-1.amazonaws.com/public-datasets/bike_sharing_dc.csv")
