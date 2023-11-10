@@ -26,4 +26,3 @@ renderer = get_pyg_renderer()
 # Render your data exploration interface. Developers can use it to build charts by drag and drop.
 renderer.render_explore()
 
-st.sidebar.header("PyWalker")
