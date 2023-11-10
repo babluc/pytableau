@@ -5,7 +5,7 @@ import streamlit as st
  
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title="Pygwalker by Leveling Up Data!",
+    page_title="Leveling Up Data!",
     layout="wide"
 )
  
